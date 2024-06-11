@@ -6,7 +6,9 @@ Welcome to my GitHub profile. Here, you will find projects and contributions tha
 
 ## About Me
 
-- 🔭 I am working as a Teacher Assistant at Henry and developing FullStack projects with a focus on Frontend. I use tools like Tailwind, CSS Modules, SASS, Bootstrap, and frameworks like Reactjs and Nextjs.
+- 🚀 I'm working as a Fullstack Developer at Alltagsauto.ch.
+
+- 🔭 I was working as a Teacher Assistant at Henry and developing FullStack projects with a focus on Frontend. I use tools like Tailwind, CSS Modules, SASS, Bootstrap, and frameworks like Reactjs and Nextjs.
 
 - 🌱 I am learning and developing Backend skills, and I want to study with Java. I am looking for a study group to share ideas and learn together.
 
