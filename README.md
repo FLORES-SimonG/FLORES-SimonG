@@ -6,7 +6,7 @@ Welcome to my GitHub profile. Here, you will find projects and contributions tha
 
 ## About Me
 
-- 🚀 I'm working as a Fullstack Developer at Alltagsauto.ch.
+- 🚀 I'm working as a Fullstack Developer at Alltagsauto.ch since 06/2024.
 
 - 🔭 I was working as a Teacher Assistant at Henry and developing FullStack projects with a focus on Frontend. I use tools like Tailwind, CSS Modules, SASS, Bootstrap, and frameworks like Reactjs and Nextjs.
 
