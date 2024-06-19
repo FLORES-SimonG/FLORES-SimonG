@@ -14,9 +14,7 @@ Welcome to my GitHub profile. Here, you will find projects and contributions tha
 
 - 👯 I want to collaborate on FullStack projects, especially with technologies like React and Nextjs.
 
-- 🤔 I need help and guidance with Backend topics because this is new to me. I learned to work with TypeScript, and I have experience with MongoDB and PostgreSQL databases.
-
-- 💬 You can ask me anything about Frontend and JavaScript.
+- 💬 You can ask me anything about Frontend: JavaScript, Typescript, NextJS, AstroJS, Tailwind or Boostrap.
 
 - 📫 How can you reach me? Through my [LinkedIn](https://www.linkedin.com/in/simongf94/).
 
