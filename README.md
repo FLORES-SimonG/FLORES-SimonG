@@ -24,7 +24,7 @@ Welcome to my GitHub profile. Here, you will find projects and contributions tha
 
 - 🇪🇸 Spanish: Native.
 - 🇩🇪 German: Intermediate/Advanced.
-- 🇬🇧 English: Intermediate.
+- 🇬🇧 English: Intermediate/Advanced.
 - 🇵🇹 Portuguese: Advanced.
 
 ---
